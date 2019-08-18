@@ -9,13 +9,13 @@ tags:
   - Update
 ---
 
-Something rather transformative happened yesterday. I actually replied to a tweet on Twitter, joking of course, but what actually made me stop and think for a moment was the tweet itself:
+Something rather transformative happened yesterday. I replied to a tweet on Twitter, joking of course, but what made me stop and think for a moment was the tweet itself:
 
 ![The triggering tweet 😅](img/articles/the-start-of-something-good-1.png)
 
-Its hard to see fellow Makers (Entrepreneurs) feel this way but I can see where they're coming from. We have a strong survivorship bias in the Maker industry. The articles that make it to the top have flashy titles like "*$200k MRR using just an Unbounce Landing Page*" which is cool and all but not very insightful into the people that made that happen.
+It's hard to see fellow Makers (Entrepreneurs) feel this way but I can see where they’re coming from. We have a strong survivorship bias in the Maker industry. The articles that make it to the top have flashy titles like ”*$200k MRR using just an Unbounce Landing Page*” which is cool and all but not very insightful into the people that made that happen.
 
-This is when I reflected back to my days of running pyred.net where I used to interview small company founders and ask about their service and what they're doing to grow the business etc:
+This is when I reflected back to my days of running pyred.net where I used to interview small company founders and ask about their service and what they’re doing to grow the business etc:
 
 ![pyred.net when it was still alive](img/articles/the-start-of-something-good-2.jpg)
 
