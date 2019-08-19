@@ -61,7 +61,6 @@ const config: WebsiteConfig = {
   mailchimpAction: 'https://github.us19.list-manage.com/subscribe/post?u=2b9acd33713c292e506e140b1&amp;id=d260e0297a',
   mailchimpName: 'b_2b9acd33713c292e506e140b1_d260e0297a',
   mailchimpEmailFieldName: 'EMAIL',
-  googleSiteVerification: 'UA-72466279-11',
   footer: '',
 };
 
