@@ -56,12 +56,12 @@ const config: WebsiteConfig = {
   lang: 'en',
   siteUrl: 'https://makerinterviews.club',
   // facebook: 'https://www.facebook.com/MakerInterviews',
-  // twitter: 'https://twitter.com/MakerInterviews',
-  showSubscribe: false,
-  mailchimpAction: '/',
-  mailchimpName: 'test',
-  mailchimpEmailFieldName: 'test',
-  googleSiteVerification: 'GoogleCode',
+  twitter: 'https://twitter.com/KameronTanseli',
+  showSubscribe: true,
+  mailchimpAction: 'https://github.us19.list-manage.com/subscribe/post?u=2b9acd33713c292e506e140b1&amp;id=d260e0297a',
+  mailchimpName: 'b_2b9acd33713c292e506e140b1_d260e0297a',
+  mailchimpEmailFieldName: 'EMAIL',
+  googleSiteVerification: 'UA-72466279-11',
   footer: '',
 };
 
