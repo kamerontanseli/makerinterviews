@@ -71,7 +71,7 @@ module.exports = {
         // IP anonymization for GDPR compliance
         anonymize: true,
         // Disable analytics for users with `Do Not Track` enabled
-        respectDNT: true,
+        respectDNT: false,
         // Avoids sending pageview hits from custom paths
         exclude: ['/preview/**'],
         // Specifies what percentage of users should be tracked
