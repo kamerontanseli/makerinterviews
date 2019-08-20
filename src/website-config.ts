@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'MakerInterviews',
-  description: 'Discover the Makers behind tomorrow\'s next products',
+  description: 'Find out more about the Maker, not just their products.',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',

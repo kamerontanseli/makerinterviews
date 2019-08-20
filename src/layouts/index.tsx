@@ -437,6 +437,7 @@ const GlobalStyles = css`
 
   h2 {
     margin: 1.5em 0 0.5em 0;
+    margin-bottom: 1em !important;
     font-size: 2rem;
   }
   @media (max-width: 500px) {

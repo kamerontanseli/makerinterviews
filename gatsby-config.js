@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'MakerInterviews',
-    description: 'Discover the Makers behind tomorrow\'s next products',
+    description: 'Find out more about the Maker, not just their products.',
     siteUrl: 'https://makerinterviews.club',
   },
   mapping: {
