@@ -4,14 +4,14 @@ title: Interview with Rajat Vaghani
 image: img/covers/interview-rajat-vaghani.jpg
 author: Kameron
 date: 2019-08-21T09:28:35.761Z
-draft: true
+draft: false
 tags: 
   - Interview
 ---
 
 ## Tell me a little bit about yourself?
 
-TBD
+I'm a full time Senior Developer at a startup during the day and a full time developer for my own side projects literally rest of the time. I've been building products since more than 10 years now. My current obsession is [Snap Search](http://snapsearch.online/android) , my effort in promoting a safe and secure method for users to search the web.
 
 ## What is the book (or books) you’ve recommended most, and why? Or what are the one to three books that have greatly influenced your life?
 Honestly, I used to read a lot of books a couple of years ago and really enjoyed it then. Unfortunately, I lost that habit and haven’t been able to devote time to something I feel is one of the best habits one can have. That being said, a couple of standout books  I do remember reading and being moved by, are:
