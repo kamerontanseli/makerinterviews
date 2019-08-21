@@ -1,3 +1,7 @@
 - id: Update
   description: Site updates around whats been happening
   image: "img/updates-cover.jpg"
+
+- id: Interview
+  description: Find out more about the Maker, not just their products.
+  image: "img/interview-cover.jpg"
