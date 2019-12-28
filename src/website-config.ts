@@ -58,8 +58,8 @@ const config: WebsiteConfig = {
   // facebook: 'https://www.facebook.com/MakerInterviews',
   twitter: 'https://twitter.com/KameronTanseli',
   showSubscribe: true,
-  mailchimpAction: 'https://github.us19.list-manage.com/subscribe/post?u=2b9acd33713c292e506e140b1&amp;id=d260e0297a',
-  mailchimpName: 'b_2b9acd33713c292e506e140b1_d260e0297a',
+  mailchimpAction: 'https://github.us19.list-manage.com/subscribe/post?u=2b9acd33713c292e506e140b1&amp;id=ff7d1396bd',
+  mailchimpName: 'b_2b9acd33713c292e506e140b1_ff7d1396bd',
   mailchimpEmailFieldName: 'EMAIL',
   footer: '',
 };
